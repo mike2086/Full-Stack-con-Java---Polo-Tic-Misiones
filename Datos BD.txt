@@ -1,0 +1,6 @@
+INFORMACION BASE DATOS
+
+Nombre de la base de datosL: peluqueria_canina
+usuario: root
+Contraseña: (en blanco)
+host: localhost
